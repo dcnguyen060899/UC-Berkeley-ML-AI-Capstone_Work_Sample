@@ -891,3 +891,12 @@ The deployment of these strategies is expected to result in substantial cost sav
 - **Traditional Models**: Significant savings ranging from $19,988,400 to $22,388,400 across different machine learning models.
 
 By implementing these immediate actions, hospitals can improve operational efficiency, enhance patient care quality, and achieve significant cost savings, paving the way for a data-driven approach to healthcare management.
+
+## License
+
+MIT License - Copyright (c) 2025 Duy Nguyen
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+This project is part of Duy Nguyen's academic portfolio for the MS Data Science program at Seattle University. While the code is open source under MIT License, **attribution is required** if you use or adapt this work. Please credit the original author and link back to this repository.
+
